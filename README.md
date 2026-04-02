@@ -10,6 +10,17 @@ A professional C programming project designed to streamline the management of ac
   - ✅ **Passing** (GPA >= 60)
   - ⚠️ **Academic Warning** (GPA < 60)
 
+## 📺 Project Demo
+See the system in action:
+
+https://github.com/user-attachments/assets/a070698f-8f75-45ed-8896-18f908118e91
+
+### 🛠️ Operation Steps:
+1. **Running the Program:** Compiling and executing the `student.c` file.
+2. **Selecting Number of Students:** Determining the size of the record array.
+3. **Entering Student Data:** Inputting names, IDs, and subject grades.
+4. **Final Results:** Generating the performance report with automated GPA calculation.
+
 ## 💻 Concepts Applied
 - **Arrays & Loops:** For efficient data handling.
 - **Modular Programming:** Clean code structure using custom functions.
